@@ -19,9 +19,12 @@
 
 ## 🚀 Proyectos destacados
 
-### [`RENACE_APP`](https://github.com/Oliversep/RENACE_APP) &nbsp; ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-App Flutter para productividad personal con integración GPT, validaciones automáticas y fixes multiplataforma. Optimizada para macOS.
+- 🔹 **Sistema de productividad personal con IA** (privado)  
+  App Flutter con integración GPT, validaciones automáticas y lógica conversacional.  
+  Optimizada para macOS. *(Repositorio privado)*
 
+- 🔹 **Demo de modernización API Legacy**  
+  Migración de un servicio SOAP a REST, validación de payloads, logging estructurado y mecanismos de resiliencia. *(Proyecto de referencia técnica)*
 ---
 
 ## 🎯 Servicios que ofrezco
