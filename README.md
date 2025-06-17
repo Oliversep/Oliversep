@@ -36,7 +36,7 @@ App Flutter para productividad personal con integración GPT, validaciones autom
 ## 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oliversep-blue?style=flat&logo=linkedin)](https://linkedin.com/in/oliversep)  
-✉️ **Correo:** [tu-email]
+✉️ **Correo:** oliver.sepulvedac@gmail.com
 
 ---
 
