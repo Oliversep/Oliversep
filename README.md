@@ -1,38 +1,43 @@
-# 👋 ¡Hola! Soy Oliver Sepúlveda
-
-CTO, Arquitecto de software y consultor TI con más de 15 años liderando transformaciones digitales en banca, fintechs y retail. Experto en desarrollo, migración de sistemas legacy, integración de servicios y automatización con IA.
+<h1 align="center">👋 ¡Hola! Soy Oliver Sepúlveda</h1>
+<p align="center">
+  CTO, Arquitecto de software y consultor TI.<br>
+  Ayudo a modernizar sistemas legacy, integrar plataformas críticas y automatizar procesos con IA.
+</p>
 
 ---
 
 ## 🛠️ Especialidades Técnicas
 
-- Modernización de sistemas legacy (Cobol → microservicios)
-- APIs REST, SOAP, mensajería con MQ/Kafka
-- Capa de integración: API Management, orquestación y transformación
-- Apps móviles con Flutter + Firebase
-- Automatización con IA (GPT, NLP, bots internos)
-- Arquitectura en GCP, AWS, SaaS financieros
+- ⚙️ **Modernización de sistemas legacy** (Cobol → microservicios)
+- 🔌 **Integraciones complejas** (APIs REST/SOAP, MQ/Kafka)
+- 🧩 **API Management & Orquestación** (Apigee, IBM API Connect, Digibee)
+- 📱 **Apps móviles** (Flutter + Firebase)
+- 🤖 **IA aplicada a negocios** (GPT, bots internos, automatizaciones)
+- ☁️ **Arquitectura Cloud** (GCP, AWS, SaaS financieros)
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### [`RENACE_APP`](https://github.com/Oliversep/RENACE_APP)
-App Flutter para productividad personal, integración GPT, validaciones automáticas, fixes multiplataforma. Optimizada para macOS.
+### [`RENACE_APP`](https://github.com/Oliversep/RENACE_APP) &nbsp; ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+App Flutter para productividad personal con integración GPT, validaciones automáticas y fixes multiplataforma. Optimizada para macOS.
 
 ---
 
 ## 🎯 Servicios que ofrezco
 
-- Desarrollo freelance (fullstack, móvil, backend)
-- Consultoría y modernización de sistemas
-- CTO as-a-Service para startups
-- Automatización con IA aplicada
-
-📬 **Contacto directo**:  
-📧 [oliver.sepulvedac@gmail.com]  
-🔗 [LinkedIn](https://linkedin.com/in/oliversep)
+- 🧠 Consultoría senior en arquitectura, integración o IA
+- 💻 Desarrollo freelance (fullstack, móvil, backend)
+- 🧰 Modernización de sistemas y migraciones Core
+- 🪄 CTO as-a-Service para startups en expansión
 
 ---
 
-> “Construyo soluciones que escalan, con visión de futuro y arquitectura sólida.”
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oliversep-blue?style=flat&logo=linkedin)](https://linkedin.com/in/oliversep)  
+✉️ **Correo:** [tu-email]
+
+---
+
+> “Lo complejo puede ser simple si se diseña con claridad y propósito.”
